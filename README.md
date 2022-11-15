@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Me, Myself and I
+- 🎓 Bachelor of Science in Computer Science in Real-Time Interactive Simulation
+- 🎮 Enjoy playing games on my free time
+
+### Other Stuff
+- 🔭 I’m currently working on 
+- 🌱 I’m currently learning backend development (Golang)
