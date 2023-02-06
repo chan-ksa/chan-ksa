@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 - 🎮 Enjoy playing games on my free time
 
 ### Other Stuff
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on foodpanda
 - 🌱 I’m currently learning backend development (Golang)
